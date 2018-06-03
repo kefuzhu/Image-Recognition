@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="renderer" content="webkit">
+<title>安锋游戏官网 - 非凡客服体验</title>
+<meta name="keywords" content="安锋,安锋游戏,安峰游戏,安锋游戏官网,安锋游戏平台,anfeng,服务最好的游戏公司" />
+<meta name="description" content="安锋游戏是武汉掌游科技有限公司旗下游戏品牌，专注于手游发行、深度运营、场景分发和手游研发领域。" />
+<link rel="icon" type="image/png" href="/res/web/images/favicon.png">
+<link rel="stylesheet" href="/res/web/css/site.min.css">
+<link rel="canonical" href="http://www.anfeng.com/">
+</head>
+<body>
+<header class="header">
+<div class="topbar">
+<div class="container">
+<h1 class="title">
+<a href="/" rel="home"><img src="/res/web/images/logo.png" alt="安锋游戏"></a>
+</h1>
+<nav class="site-navigation hidden-xs">
+<ul id="primary-menu" class="nav-menu clearfix">
+<li class="menu-item current-menu-item">
+<a href="/" class="menu-link">首 页</a>
+</li>
+<li class="menu-item ">
+<a href="/business" class="menu-link">核心业务</a>
+</li>
+<li class="menu-item ">
+<a href="/game" class="menu-link">游戏产品</a>
+</li>
+<li class="menu-item ">
+<a target="_blank" href="http://www.zhuayou.net/about/" class="menu-link">关于安锋</a>
+</li>
+<li class="menu-item "">
+                        <a target="_blank" href="http://www.anfeng.cn/service.html" class="menu-link">客服中心</a>
+                    </li>
+                    <li class="menu-item "">
+<a href="/contact" class="menu-link">联系我们</a>
+</li>
+</ul>
+</nav>
+<div class="user" id="afuc_login_script"></div>
+</div>
+</div>
+</header>
+<script charset="utf-8" src="//wpa.b.qq.com/cgi/wpa.php"></script>
+<div class="home-slider owl-carousel owl-theme">
+<div><a href="http://ts.anfeng.com/" target="_blank" title="天使纪元"><img src="https://www.anfeng.com/upload/tj/201801/5a5c83e233ba0.jpg" alt="天使纪元"/></a></div>
+<div><a href="http://xn.anfeng.com/" target="_blank" title="全民仙逆"><img src="https://www.anfeng.com/upload/tj/201802/5a7413acd161d.jpg" alt="全民仙逆"/></a></div>
+<div><a href="http://tx.anfeng.com/" target="_blank" title="铁血文明"><img src="http://www.anfeng.com/upload/tj/201705/591028db63794.jpg" alt="铁血文明"/></a></div>
+<div><a href="http://yx.anfeng.com/" target="_blank" title="天下英雄"><img src="http://www.anfeng.com/upload/tj/201705/59103e28a90b2.jpg" alt="天下英雄"/></a></div>
+<div><a href="http://cqws.zhuayou.com/" target="_blank" title="屠龙决战沙城"><img src="http://www.anfeng.com/upload/tj/201705/59103cb12537b.jpg" alt="屠龙决战沙城"/></a></div>
+</div>
+<div class="home-games">
+<div class="container">
+<h2 class="title">热 门 游 戏</h2>
+<div class="title-border">HOT GAMES</div>
+<div class="row">
+<div class="game-item-wrapper col-xs-12 col-md-4 col-lg-4">
+<div class="game-item">
+<div class="game-item-pic">
+<a href="http://zyj.anfeng.com/" target="_blank"><figure class="game-figure"><img style="width: 327px;height: 204px;" class="af-gallery" src="https://www.anfeng.com/upload/tj/201803/5ab37d88cac10.jpg" alt="作妖计"></figure></a>
+</div>
+<div class="game-item-info">
+<div class="game-name clearfix">
+<h3 class="title"><a href="http://zyj.anfeng.com/" target="_blank">作妖计</a></h3>
+<div class="game-type"><span class="mmorpg">回合</span></div>
+</div>
+<div class="desc">鬼畜合体卡牌手游《作妖计》，击穿无聊，消费节操</div>
+<div class="link"><a href="http://zyj.anfeng.com/" target="_blank">进入官网 <i class="af-icon icon-chevron-right"></i></a></div>
+</div>
+</div>
+</div>
+<div class="game-item-wrapper col-xs-12 col-md-4 col-lg-4">
+<div class="game-item">
+<div class="game-item-pic">
+<a href="http://ts.anfeng.com/" target="_blank"><figure class="game-figure"><img style="width: 327px;height: 204px;" class="af-gallery" src="https://www.anfeng.com/upload/tj/201801/5a5c7bcb0af51.jpg" alt="天使纪元"></figure></a>
+</div>
+<div class="game-item-info">
+<div class="game-name clearfix">
+<h3 class="title"><a href="http://ts.anfeng.com/" target="_blank">天使纪元</a></h3>
+<div class="game-type"><span class="mmorpg">魔幻</span></div>
+<div class="game-type"><span class="mmorpg">动作</span></div>
+</div>
+<div class="desc">3D魔幻MMO战斗手游</div>
+<div class="link"><a href="http://ts.anfeng.com/" target="_blank">进入官网 <i class="af-icon icon-chevron-right"></i></a></div>
+</div>
+</div>
+</div>
+<div class="game-item-wrapper col-xs-12 col-md-4 col-lg-4">
+<div class="game-item">
+<div class="game-item-pic">
+<a href="http://cqws.zhuayou.com/" target="_blank"><figure class="game-figure"><img style="width: 327px;height: 204px;" class="af-gallery" src="http://www.anfeng.com/upload/tj/201705/59103fa8b3479.jpg" alt="屠龙决战沙城"></figure></a>
+</div>
+<div class="game-item-info">
+<div class="game-name clearfix">
+<h3 class="title"><a href="http://cqws.zhuayou.com/" target="_blank">屠龙决战沙城</a></h3>
+<div class="game-type"><span class="mmorpg">武侠</span></div>
+</div>
+<div class="desc">经典复古传奇1.76版 原汁原味体验</div>
+<div class="link"><a href="http://cqws.zhuayou.com/" target="_blank">进入官网 <i class="af-icon icon-chevron-right"></i></a></div>
+</div>
+</div>
+</div>
+<div class="game-item-wrapper col-xs-12 col-md-4 col-lg-4">
+<div class="game-item">
+<div class="game-item-pic">
+<a href="http://xn.anfeng.com/" target="_blank"><figure class="game-figure"><img style="width: 327px;height: 204px;" class="af-gallery" src="https://www.anfeng.com/upload/tj/201706/5937cc55c20bd.jpg" alt="全民仙逆"></figure></a>
+</div>
+<div class="game-item-info">
+<div class="game-name clearfix">
+<h3 class="title"><a href="http://xn.anfeng.com/" target="_blank">全民仙逆</a></h3>
+<div class="game-type"><span class="mmorpg">仙侠</span></div>
+</div>
+<div class="desc">耳根正版授权 3D修真MMORPG手游大作</div>
+<div class="link"><a href="http://xn.anfeng.com/" target="_blank">进入官网 <i class="af-icon icon-chevron-right"></i></a></div>
+</div>
+</div>
+</div>
+<div class="game-item-wrapper col-xs-12 col-md-4 col-lg-4">
+<div class="game-item">
+<div class="game-item-pic">
+<a href="http://tx.anfeng.com/" target="_blank"><figure class="game-figure"><img style="width: 327px;height: 204px;" class="af-gallery" src="https://www.anfeng.com/upload/tj/201706/5937cc74ae8cb.jpg" alt="铁血文明"></figure></a>
+</div>
+<div class="game-item-info">
+<div class="game-name clearfix">
+<h3 class="title"><a href="http://tx.anfeng.com/" target="_blank">铁血文明</a></h3>
+<div class="game-type"><span class="mmorpg">战争</span></div>
+</div>
+<div class="desc">全新多文明题材策略类SLG手游</div>
+<div class="link"><a href="http://tx.anfeng.com/" target="_blank">进入官网 <i class="af-icon icon-chevron-right"></i></a></div>
+</div>
+</div>
+</div>
+<div class="game-item-wrapper col-xs-12 col-md-4 col-lg-4">
+<div class="game-item">
+<div class="game-item-pic">
+<a href="http://tqdkn.anfeng.com/" target="_blank"><figure class="game-figure"><img style="width: 327px;height: 204px;" class="af-gallery" src="http://www.anfeng.com/upload/tj/201706/592fd519ac2ce.jpg" alt="天启的狂怒"></figure></a>
+</div>
+<div class="game-item-info">
+<div class="game-name clearfix">
+<h3 class="title"><a href="http://tqdkn.anfeng.com/" target="_blank">天启的狂怒</a></h3>
+<div class="game-type"><span class="mmorpg">战争</span></div>
+</div>
+<div class="desc">传统红警题材玩法的策略战争手游</div>
+<div class="link"><a href="http://tqdkn.anfeng.com/" target="_blank">进入官网 <i class="af-icon icon-chevron-right"></i></a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="home-more">
+<a class="btn btn-more" href="/game/"><i class="af-icon icon-caret-left"></i> 更多游戏 <i class="af-icon icon-caret-right"></i></a>
+</div>
+</div>
+</div>
+<div class="home-news">
+<div class="container">
+<h2 class="title">资 讯 & 活 动</h2>
+<div class="title-border">HOT NEWS</div>
+<div class="row">
+<div class="col-xs-12 col-md-6 col-lg-6">
+<div class="entry clearfix">
+<div class="entry-pic">
+<a href="/news/43" target="_blank"><figure class="news-figure"><img class="af-gallery" src="https://www.anfeng.com/upload/img/201804/5ad9b295a41fe.jpg"></figure></a>
+</div>
+<div class="entry-info">
+<h3 class="title"><a href="/news/43" target="_blank">掌游科技携手WHCGA在武汉成功举办“头号鄂玩家”百万粉丝见面会</a></h3>
+<p class="datetime">2018-04-21</p>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-md-6 col-lg-6">
+<div class="entry clearfix">
+<div class="entry-pic">
+<a href="/event/1064/" target="_blank"><figure class="news-figure"><img class="af-gallery" src="https://www.anfeng.com/upload/img/201804/5ae40fb15fd63.jpg"></figure></a>
+</div>
+<div class="entry-info">
+<h3 class="title"><a href="/event/1064/" target="_blank">《天启的狂怒》五一充值大回馈！</a></h3>
+<p class="datetime">2018-04-28</p>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-md-6 col-lg-6">
+<div class="entry clearfix">
+<div class="entry-pic">
+<a href="/event/1059/" target="_blank"><figure class="news-figure"><img class="af-gallery" src="https://www.anfeng.com/upload/img/201802/5a7fa5d6ea44b.jpg"></figure></a>
+</div>
+<div class="entry-info">
+<h3 class="title"><a href="/event/1059/" target="_blank">《天启的狂怒》新春巨献！一年仅此一次！</a></h3>
+<p class="datetime">2018-02-12</p>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-md-6 col-lg-6">
+<div class="entry clearfix">
+<div class="entry-pic">
+<a href="/event/1060/" target="_blank"><figure class="news-figure"><img class="af-gallery" src="https://www.anfeng.com/upload/img/201802/5a7ff99462ff5.jpg"></figure></a>
+</div>
+<div class="entry-info">
+<h3 class="title"><a href="/event/1060/" target="_blank">《帝国征服者》新春巨献！一年仅此一次！</a></h3>
+<p class="datetime">2018-02-12</p>
+</div>
+</div>
+</div>
+</div>
+<div class="home-more">
+<a class="btn btn-more-alt" href="/news/"><i class="af-icon icon-caret-left"></i> 更多资讯 <i class="af-icon icon-caret-right"></i></a>
+</div>
+</div>
+</div>
+<div class="home-cs">
+<div class="container">
+<div class="cs-content">
+<h2 class="slogan"><i class="af-icon icon-quote-left"></i> 非 凡 客 服 体 验 <i class="af-icon icon-quote-right"></i></h2>
+<p class="intro">安锋游戏致力于为广大游戏玩家提供最优质的客服体验</p>
+<div class="cs-officers clearfix">
+<div class="col-xs-6 col-md-2 col-lg-2">
+<div class="officer-avatar">
+<a href="javascript:void(0);" target="_blank"><img src="/res/web/images/del/avatar01.jpg"></a>
+</div>
+<div class="officer-name">
+客服-小白白
+</div>
+</div>
+<div class="col-xs-6 col-md-2 col-lg-2">
+<div class="officer-avatar">
+<a href="javascript:void(0);" target="_blank"><img src="/res/web/images/del/avatar02.jpg"></a>
+</div>
+<div class="officer-name">
+客服-大玉儿
+</div>
+</div>
+<div class="col-xs-6 col-md-2 col-lg-2">
+<div class="officer-avatar">
+<a href="javascript:void(0);" target="_blank"><img src="/res/web/images/del/avatar03.jpg"></a>
+</div>
+<div class="officer-name">
+客服-倩倩
+</div>
+</div>
+<div class="col-xs-6 col-md-2 col-lg-2">
+<div class="officer-avatar">
+<a href="javascript:void(0);" target="_blank"><img src="/res/web/images/del/avatar04.jpg"></a>
+</div>
+<div class="officer-name">
+客服-露露
+</div>
+</div>
+<div class="col-xs-6 col-md-2 col-lg-2">
+<div class="officer-avatar">
+<a href="javascript:void(0);" target="_blank"><img src="/res/web/images/del/avatar05.jpg"></a>
+</div>
+<div class="officer-name">
+客服-可心
+</div>
+</div>
+<div class="col-xs-6 col-md-2 col-lg-2">
+<div class="officer-avatar">
+<a href="javascript:void(0);" target="_blank"><img src="/res/web/images/del/avatar06.jpg"></a>
+</div>
+<div class="officer-name">
+客服-小小墨
+</div>
+</div>
+</div>
+<div class="btn btn-brand btn-lg">
+<div class="title">免费客服热线</div>
+<div class="phone-number">400-027-4365</div>
+</div>
+</div>
+</div>
+</div>
+<div class="home-featured">
+<div class="container">
+<h2 class="title">特 色 推 荐</h2>
+<div class="title-border">FEATURED</div>
+<div class="row">
+<div class="featured-item-wrapper col-xs-12 col-md-4 col-lg-4">
+<div class="featured-item">
+<div class="featured-item-pic">
+<a href="//www.anfeng.com/fengwan" target="_blank"><figure class="featured-figure"><img class="af-gallery" src="/res/web/images/featured01.jpg" alt="锋玩"></figure></a>
+</div>
+</div>
+</div>
+<div class="featured-item-wrapper col-xs-12 col-md-4 col-lg-4">
+<div class="featured-item">
+<div class="featured-item-pic">
+<a href="//h5.anfeng.com/" target="_blank"><figure class="featured-figure"><img class="af-gallery" src="/res/web/images/featured02.jpg" alt="安锋H5游戏"></figure></a>
+</div>
+</div>
+</div>
+<div class="featured-item-wrapper col-xs-12 col-md-4 col-lg-4">
+<div class="featured-item">
+<div class="featured-item-pic">
+<a href="http://www.zhuayou.net/join/" target="_blank"><figure class="featured-figure"><img class="af-gallery" src="/res/web/images/xiaoyuan.jpg" alt="校园招聘"></figure></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="quick-link">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-md-2 col-lg-2">
+<div class="title">游戏列表</div>
+<ul class="game-list">
+<li><a href="http://zyj.anfeng.com/" target="_blank">作妖计</a></li>
+<li><a href="http://ts.anfeng.com/" target="_blank">天使纪元</a></li>
+<li><a href="http://cqws.zhuayou.com/" target="_blank">屠龙决战沙城</a></li>
+<li><a href="http://xn.anfeng.com/" target="_blank">全民仙逆</a></li>
+<li><a href="http://tx.anfeng.com/" target="_blank">铁血文明</a></li>
+<li><a href="http://tqdkn.anfeng.com/" target="_blank">天启的狂怒</a></li>
+</ul>
+</div>
+<div class="col-xs-12 col-md-6 col-lg-6">
+<div class="title">快捷通道</div>
+<div class="action-links row">
+<div class="link-item col-xs-6 col-md-4 col-lg-4">
+<a href="//i.anfeng.com/ucenter" target="_blank">
+<i class="af-icon icon-lock"></i>
+修改密码
+</a>
+</div>
+<div class="link-item col-xs-6 col-md-4 col-lg-4">
+<a href="//i.anfeng.com/ucenter" target="_blank">
+<i class="af-icon icon-tablet"></i>
+绑定手机
+</a>
+</div>
+<div class="link-item col-xs-6 col-md-4 col-lg-4">
+<a href="javascript:void(0);" target="_blank">
+<i class="af-icon icon-yen"></i>
+充值中心
+</a>
+</div>
+<div class="link-item col-xs-6 col-md-4 col-lg-4">
+<a href="//i.anfeng.com/ucenter/info" target="_blank">
+<i class="af-icon icon-pencil-square-o"></i>
+修改资料
+</a>
+</div>
+<div class="link-item col-xs-6 col-md-4 col-lg-4">
+<a href="//i.anfeng.com/ucenter/info" target="_blank">
+<i class="af-icon icon-vcard-o"></i>
+实名认证
+</a>
+</div>
+<div class="link-item col-xs-6 col-md-4 col-lg-4">
+<a href="/jianhu/" target="_blank">
+<i class="af-icon icon-universal-access"></i>
+家长监护
+</a>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-md-4 col-lg-4">
+<div class="title">关注我们</div>
+<div class="follow-us clearfix">
+<div class="weixin-qrcode">
+<img src="/res/web/images/weixin-qrcode.png" alt="安锋游戏微信公众号"><br>
+微信扫一扫关注
+</div>
+<ul class="social-media">
+<li><a id="BizQQWPA" href="javascript:void(0);" target="_blank"><i class="af-icon icon-angle-right"></i> 客服 QQ：4000274365</a></li>
+<li><a rel="nofollow" href="//weibo.com/u/5173634908" target="_blank"><i class="af-icon icon-angle-right"></i> 新浪微博：安锋游戏</a></li>
+<li><a rel="nofollow" href=" //tieba.baidu.com/f?ie=utf-8&kw=%E5%AE%89%E9%94%8B%E6%B8%B8%E6%88%8F&fr=search" target="_blank"><i class="af-icon icon-angle-right"></i> 百度贴吧：安锋游戏吧</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer clearfix">
+<div class="container">
+<div class="footer-logo">
+<img src="/res/web/images/logo-footer.png" alt="安锋游戏">
+</div>
+<div class="footer-right">
+<p class="footer-links">
+<a href="/about">关于安锋</a><em>|</em>
+<a href="http://i.anfeng.com/ucenter/info">防沉迷认证</a><em>|</em>
+<a href="/jianhu">家长监护</a><em>|</em>
+<a href="/agreement">用户协议</a><em>|</em>
+<a href="http://www.anfeng.cn/service.html" target="_blank">客服中心</a><em>|</em>
+<a href="/contact">联系方式</a><em>|</em>
+<a rel="nofollow" href="//www.lagou.com/gongsi/j16377.html" target="_blank">人员招聘</a>
+</p>
+<p class="copyright">Copyright 2014-2018 <a href="http://www.zhuayou.net/" target="_blank">武汉掌游科技有限公司</a>. All Rights Reserved</p>
+<p class="address">公司地址：湖北省武汉市洪山区野芷湖西路创意天地游戏产业大厦11层</p>
+<p>健康游戏公告：抵制不良游戏 拒绝盗版游戏 注意自我保护 谨防受骗上当 适度游戏益脑 沉迷游戏伤身 合理安排时间 享受健康生活</p>
+<p>
+ICP证：鄂ICP备14007714号-2&nbsp;&nbsp;
+<a style="color: #aaa;" target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=42011102001179">
+<img src="./res/web/images/police.png">
+鄂公网安备 42011102001179号
+</a>
+</p>
+<p class="cert">
+<span><a href="javascript:void(0);" target="_blank"><img src="/res/web/images/footer-icon-icp.png"></a></span>
+<span><a href="javascript:void(0);" target="_blank"><img src="/res/web/images/footer-icon-game.png"></a></span>
+<span><a rel="nofollow" href="//v.pinpaibao.com.cn/cert/site/?site=www.anfeng.cn&at=realname" target="_blank"><img src="/res/web/images/footer-icon-anquan.png"></a></span>
+</p>
+</div>
+</div>
+</footer>
+<script src="/res/web/js/jquery.min.js"></script>
+<script src="/res/web/js/site.min.js"></script>
+<script src="/res/web/js/uc.js"></script>
+<div style="display:none"><script src='https://w.cnzz.com/c.php?id=1261876279&l=3' language='JavaScript'></script></div>
+</body>
+</html>
+<script>
+    $(document).ready(function(){
+        $('.home-slider').owlCarousel({
+            items: 1,
+            loop: true,
+            center: true,
+            autoplay: true,
+            animateIn: 'fadeIn',
+            animateOut: 'fadeOut'
+        });
+        $('.header').sticky({
+            PLACEHOLD: true
+        });
+        $(window).on('scroll', function() {
+            if ($(window).scrollTop() > 0) {
+                $('.header').addClass('animated fadeInDown');
+                $('.header .user .btn-login').addClass('hover');
+            } else {
+                $('.header').removeClass('animated fadeInDown');
+                $('.header .user .btn-login').removeClass('hover');
+            }
+        });
+    });
+    
+    BizQQWPA.addCustom({aty: '0', a: '0', nameAccount: 4000274365, selector: 'BizQQWPA'});
+    
+</script>

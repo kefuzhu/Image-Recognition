@@ -1,0 +1,324 @@
+ <!DOCTYPE html>
+<html>
+    <head>
+        <title>ThreatLabs</title>
+        <meta charset="utf-8"/>     
+    <style>
+        @font-face {
+            font-family: 'AVGSans_Bold';
+            src: url('https://www.avg.com/stc/tpl/cart-responsive/fonts/AVGSansBoldProportional.eot');
+            src: url('https://www.avg.com/stc/tpl/cart-responsive/fonts/AVGSansBoldProportional.eot?#iefix') format('embedded-opentype'), url('https://www.avg.com/stc/tpl/cart-responsive/fonts/AVGSansBoldProportional.woff') format('woff'), url('https://www.avg.com/stc/tpl/cart-responsive/fonts/AVGSansBoldProportional.ttf');
+        }
+
+        @font-face {
+            font-family: 'AVGSans_Medium';
+            src: url('https://www.avg.com/stc/tpl/cart-responsive/fonts/AVGSansMediumProportional.eot');
+            src: url('https://www.avg.com/stc/tpl/cart-responsive/fonts/AVGSansMediumProportional.eot?#iefix') format('embedded-opentype'), url('https://www.avg.com/stc/tpl/cart-responsive/fonts/AVGSansMediumProportional.woff') format('woff'), url('https://www.avg.com/stc/tpl/cart-responsive/fonts/AVGSansMediumProportional.ttf');
+        }
+
+        @font-face {
+            font-family: 'AVGSans_Light';
+            src: url('https://www.avg.com/stc/tpl/cart-responsive/fonts/AVGSansLightProportional.eot');
+            src: url('https://www.avg.com/stc/tpl/cart-responsive/fonts/AVGSansLightProportional.eot?#iefix') format('embedded-opentype'), url('https://www.avg.com/stc/tpl/cart-responsive/fonts/AVGSansLightProportional.woff') format('woff'), url('https://www.avg.com/stc/tpl/cart-responsive/fonts/AVGSansLightProportional.ttf');
+        }
+      body {
+        margin: 0;
+        padding: 0;
+      }
+      H1,P {
+        margin:0px;
+      }
+      H1,H2,H3,P {
+        font-family: "AVGSans_Light";
+        line-height: 1;
+      }
+      #header {
+        min-height: 38px;
+      }
+      #header IMG {
+        padding: 55px 0 47px 30px;
+      }
+      #top {
+        background-image: url("https://www.avg.com/stc/img/threatlabs/landing-page/bg-top.jpg");
+        background-color:#1b1c1c;
+        background-repeat: no-repeat;
+        background-position: center top;
+        min-height: 421px;
+        text-align: center;
+      }
+      #top .number {
+        padding-bottom: 50px;
+      }
+      #top .number P {
+        color: #eaeef4;
+        font-size: 79px;
+        text-align:center;
+        border:1px solid #fff;
+        padding: 0 25px;
+        display:inline-block;
+      }
+      #top H1 {
+        font-size: 30px;
+        font-weight: 400;
+
+        color: #fff;
+        padding-bottom: 20px;
+        line-height: 1;
+      }
+      #top .subh1 {
+        font-size: 20px;
+        font-weight: 400;
+
+        color: #bababa;
+
+      }
+      #top .sizer {
+        padding-top:100px;
+        padding-bottom:100px;
+      }
+      #blue-info {
+        background-color: #0082ee;
+      }
+      #blue-info .sizer {
+        padding-top:24px;
+        padding-bottom:29px;
+      }
+      #blue-info P {
+        font-size: 16px;
+        color:#fff;
+        text-align:center;
+        font-weight: 300;
+      }
+      #blue-info .main {
+        font-weight: 500;
+        font-family: "AVGSans_Medium";
+        padding-bottom: 5px;
+      }
+      #tips {
+        background-color: #e9edf3;
+        text-align:center;
+      }
+      #tips .white-block {
+        background-color: #fff;
+        padding-top:50px;
+        max-width: 1170px;
+        margin:0 auto;
+      }
+      #tips .H2 {
+        font-size: 30px;
+        font-weight: 400;
+
+        padding-bottom:20px;;
+      }
+      #tips .subh2 {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 20px;
+        padding-bottom:57px;;
+      }
+      #tips .row {
+        max-width:930px;
+        margin:0 auto;
+      }
+      .row:before, .row:after {
+        display: table;
+        line-height: 0;
+        content: "";
+      }
+
+      #tips .row .span {
+        float: left;
+        min-height: 1px;
+        width: 33.3%;
+      }
+      #tips .row .in-span {  
+        border: 1px solid #e5e5e5;
+        max-width: 296px;
+        min-height:298px;
+      }
+      #tips .row .in-span IMG{  
+        max-width: 100%;
+      }
+      #tips .row .in-span H3{  
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 26px;
+        padding-bottom:27px;
+        padding-top:24px;
+        padding-left: 35px;
+        padding-right:35px;
+        margin:0;
+        min-height:76px;
+      }
+      #tips .row .in-span .more-button {  
+        border-radius: 20px;
+        border: 1px solid #0082ee;
+        padding:7px 0px;
+        display: inline-block;
+        text-align: center;
+        vertical-align: middle;
+        min-width: 126px;
+
+        cursor: pointer;
+        background-image: none;
+        text-decoration:none;
+        margin: 0 0 24px;
+      }
+      #tips .row .in-span .more-button SPAN {  
+        color: #249efc;
+        font-family: Roboto;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 22px;
+      }
+      #tips .note {  
+        padding-bottom:50px;
+        clear: both;
+        padding-top:50px;
+      }
+      #tips .note P {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 20px;
+        max-width: 600px;
+        margin:0 auto;
+      }
+
+      .clear {
+        clear: both;
+      }
+      #protection {
+        background-color: #e9edf3;
+      }
+      #protection H2{
+        font-size: 30px;
+        font-weight: 400;
+        margin:0;
+        padding-bottom:18px;
+      }
+      #protection .subh2{
+        font-size: 14px;
+        font-weight: 300;
+        line-height: 20px;
+        padding-bottom:27px;
+        color: #5c707b;
+      }
+      #protection .sizer{
+        max-width:650px;
+        margin:0 auto;
+        padding-top:50px;
+        padding-bottom:178px;
+        text-align:center;
+      }
+      #protection .sizer .mention{
+        font-size: 14px;
+        font-weight: 700;
+        line-height: 20px;
+        padding-bottom:50px;
+        font-family: "AVGSans_Bold";
+        color: #5c707b;
+      }
+      #protection .sizer .button-green {
+        background-color: #3ea031;
+        min-width: 227px;
+        color:#fff;
+        text-decoration:none;
+        padding:14px 15px;
+        display: inline-block;;
+        margin:0 auto;
+      }
+      #protection .sizer .button-green SPAN{
+        font-size: 16px;
+        font-weight: 400;
+        text-transform: uppercase;
+        font-family: "AVGSans_Medium";
+      }
+
+      /* media */
+      @media only screen and (max-width: 767px){
+        #tips .row .span {
+          float: none;
+          min-height: 1px;
+          padding: 20px;
+          width: auto;
+          display: block;
+        }
+        #tips .row {
+          width: auto;
+          display: block;
+        }
+        #tips .row .span .in-span {
+          margin: 0 auto;
+        }
+        #blue-info P,
+        #tips P,
+        #protection P
+        {
+          padding-left:10px;
+          padding-right:10px;
+        }
+      }
+    </style>
+
+    </head>
+    <body>
+    <div id="header">
+      <img src="https://www.avg.com/stc/img/threatlabs/landing-page/threat-labs-logo.png" alt="logo"/>
+    </div>
+    <div id="top">
+      <div class="sizer">
+        <div class="number"><p>404</p></div>
+        <h1>We’re all looking for something</h1>
+        <p class="subh1">But the website you’re trying to reach isn’t here anymore.</p>
+      </div>
+    </div>
+    <div id="blue-info">
+      <div class="sizer">
+        <p class="main">Our ThreatLabs site has been killed off.</p>
+        <p>We’re sad about it, too, but don’t worry—we have other useful stuff for you to read.</p>
+      </div>
+    </div>
+    <div id="tips">
+      <div class="white-block">
+        <h2>Some easy tips to stay safe</h2>
+        <p class="subh2">But the website you’re trying to reach isn’t here anymore.</p>
+
+        <div class="row">
+          <div class="span">
+            <div class="in-span">  
+              <img src="https://www.avg.com/stc/img/threatlabs/landing-page/box-1.png" alt="box"/>
+              <h3>How to Check if a Website is Safe Before You Visit</h3>
+              <a href="https://www.avg.com/en/signal/website-safety" class="more-button" target="_blank"><span>Read more</span></a>
+            </div>
+          </div>
+          <div class="span">
+            <div class="in-span">  
+              <img src="https://www.avg.com/stc/img/threatlabs/landing-page/box-2.png" alt="box"/>
+              <h3>How to Check if an Android App is Safe to Install</h3>
+              <a href="https://www.avg.com/en/signal/android-app-safety" class="more-button" target="_blank"><span>Read more</span></a>
+            </div>
+          </div>
+          <div class="span">
+            <div class="in-span">
+              <img src="https://www.avg.com/stc/img/threatlabs/landing-page/box-3.png" alt="box"/>
+              <h3>What is a Computer Virus</h3>
+              <a href="https://www.avg.com/en/signal/what-is-a-computer-virus" class="more-button" target="_blank"><span>Read more</span></a>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div class="note"><p>Not the information you were looking for? We have tons of articles on other types of <a href="https://www.avg.com/en/signal/what-is-malware" target="_blank">malware</a>, as well as tips on how to stay safe on our blog.</p></div>
+
+      </div>
+    </div>
+    <div id="protection">
+      <div class="sizer">
+        <h2>Are you using the right protection?</h2>
+        <p class="subh2">When was the last time you got an upgrade? If the answer is “ages ago”, “I don’t remember”, or “never”, you’ve probably got some security holes that need serious patching. Our latest AVG AntiVirus Free is not only loaded with new features, but it also updates itself automatically. It protects you from viruses, ransomware, spyware, dangerous links &amp; downloads.</p>
+        <p class="mention">Oh, and did we mention it’s free?</p>
+        <a href="https://www.avg.com/en-ww/free-antivirus-download" class="button-green" target="_blank"><span>Free download</span></a>
+      </div>
+    </div>
+
+    </body>
+</html>
