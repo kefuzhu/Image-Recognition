@@ -6,7 +6,7 @@ The first try was a 4-convolutional layers CNN built from scratch using Pytorch.
 
 In general, due to few human label errors and lack of training data, the model does not perform up to expectation.
 
-** Furture work **:
+**Furture work**:
 1. Try retrain and finetune pre-trained model (Transfering learning)
 2. Perform more transformations on images to make the model more robust and also potentially add more training data
 3. Try different pooling techniques (currently using GlobalAveragePooling) and add more convolutional layers
